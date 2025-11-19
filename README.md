@@ -13,7 +13,6 @@ It also saves the final summary in `portfolio.txt`.
 -  Saves total investment to a file
 -  Great project to learn dictionaries, loops, and file handling
 
-
 ##  Predefined Stock Prices
 The program includes popular companies like:
 
